@@ -56,7 +56,7 @@ class _ChatScreenState extends State<ChatScreen> with TickerProviderStateMixin {
     await tts.speak(currentTtsString);
   }
 
-  String apiKey = "AIzaSyDb65zuayZ0JJFyhAczPJa2qJfzBFGFsdc";
+  String apiKey = "";
 
   bool isListening = false;
   List botReplies = [];
