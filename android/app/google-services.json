@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1077658207637",
+    "project_id": "aida-flutter",
+    "storage_bucket": "aida-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077658207637:android:1bbf40b36bea7af64fe29c",
+        "android_client_info": {
+          "package_name": "com.RobinTech.ada"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkdFboWGsK-gUwRuE2nV4Ki6TyyvglVJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
